@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://mydbinstance.cyfjjout6pho.ap-south-1.rds.amazonaws.com:3306/quizzio
+    username: subho57
+    password: adminDBpassword123
+  jpa:
+    hibernate:
+      ddl-auto: update

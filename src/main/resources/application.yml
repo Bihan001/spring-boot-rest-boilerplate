@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SpringBootRESTBoilerplate
+  profiles:
+    active: dev
